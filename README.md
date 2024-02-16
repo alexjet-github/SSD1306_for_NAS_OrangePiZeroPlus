@@ -25,5 +25,6 @@ To run app at boot time:
 2. Add row: @reboot /home/<your username here>/SSD1306/build/ArmbianOLED` ex `@reboot /home/orangepi/SSD1306/build/ArmbianOLED
 3. Reboot the board and check the display of information on the OLED
 
-Exellent work with Armbian image [Latest version in archive](https://k-space.ee.armbian.com/archive/orangepizeroplus/archive/) on the board - Orange PI Zero Plus (H5).
-[Display](https://github.com/alexjet-github/SSD1306_for_NAS_OrangePiZeroPlus/image/Display_of_Information.jpg)
+Exellent work with Armbian image [Latest version in archive](https://k-space.ee.armbian.com/archive/orangepizeroplus/archive/) on the board - Orange PI Zero Plus (H5).  
+
+![Display](https://github.com/alexjet-github/SSD1306_for_NAS_OrangePiZeroPlus/image/Display_of_Information.jpg?raw=true)
