@@ -26,3 +26,4 @@ To run app at boot time:
 3. Reboot the board and check the display of information on the OLED
 
 Exellent work with Armbian image [Latest version in archive](https://k-space.ee.armbian.com/archive/orangepizeroplus/archive/) on the board - Orange PI Zero Plus (H5).
+[Display](https://github.com/alexjet-github/SSD1306_for_NAS_OrangePiZeroPlus/image/Display_of_Information.jpg)
