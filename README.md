@@ -25,4 +25,3 @@ To run app at boot time:
 3. Reboot the board and check the display of information on the OLED
 
 Exellent work with Armbian image [Latest version in archive](https://k-space.ee.armbian.com/archive/orangepizeroplus/archive/) on the board - Orange PI Zero Plus (H5).
-[![How it works](https://github.com/vadzimyatskevich/OrangePI_OLED/blob/master/img/pic_1.JPG)]
