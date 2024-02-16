@@ -27,4 +27,6 @@ To run app at boot time:
 
 Exellent work with Armbian image [Latest version in archive](https://k-space.ee.armbian.com/archive/orangepizeroplus/archive/) on the board - Orange PI Zero Plus (H5).  
 
-![Display](https://github.com/alexjet-github/SSD1306_for_NAS_OrangePiZeroPlus/image/Display_of_Information.jpg?raw=true)
+<p align="left">
+ <img width="30%" src="https://github.com/alexjet-github/SSD1306_for_NAS_OrangePiZeroPlus/blob/master/image/Display_of_Information.jpg" alt="qr"/>
+</p>
