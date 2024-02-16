@@ -1,4 +1,4 @@
-# OLED for OrangePI_OLED
+# OLED for NAS based on Orange PI Zero Plus
 Adding OLED for display system information of NAS based on Orange Pi Zero Plus (H5)
 
 **connection Orange PI Zero Plus:**
@@ -11,7 +11,8 @@ Adding OLED for display system information of NAS based on Orange Pi Zero Plus (
 |`GND` |    0 V    |   9   |
 
 May work on other H5, H3 and H2+ boards with Armbian.
-Use I2C-0 pins. To change I2C bus make corresponding changes in main.c row 127 (`bus = i2c_init((char*)&"/dev/i2c-0", 0x3c);`)
+Use I2C-0 pins.
+To change I2C bus make corresponding changes in main.c row 127 (`bus = i2c_init((char*)&"/dev/i2c-0", 0x3c);`)
 
 To run app:
 1. git clone https://github.com/alexjet-github/SSD1306_for_NAS_OrangePiZeroPlus.git
